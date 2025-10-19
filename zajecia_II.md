@@ -38,8 +38,8 @@ Znajdź dopełnienie zbioru rozmytego $T(2,3,5)$ dla $U = \{\, x \in \mathbb{R} 
 |                        |                                         |
 
 Znajdź sumę dla zbiorów:
-$A = \{ \frac{a}{0,4}, \frac{b}{0.6}, \frac{c}{0.9}, \frac{d}{0.1} \}$
-$B = \{ \frac{b}{0.5}, \frac{c}{1}, \frac{d}{0.1}, \frac{e}{0.3} \}$
+$A = \{ \frac{0.4}{a}, \frac{0.6}{b}, \frac{0.9}{c}, \frac{0.1}{d} \}$
+$B = \{ \frac{0.5}{b}, \frac{1}{c}, \frac{0.1}{d}, \frac{0.3}{e} \}$
 
 ---
 
@@ -51,8 +51,8 @@ $B = \{ \frac{b}{0.5}, \frac{c}{1}, \frac{d}{0.1}, \frac{e}{0.3} \}$
 |                           |                                         |
 
 Znajdź iloczyn zbiorów rozmytych:
-$C = \{ \frac{a}{0,4}, \frac{b}{0.6}, \frac{c}{0.9}, \frac{d}{0.1} \}$
-$D = \{ \frac{b}{0.5}, \frac{c}{1}, \frac{d}{0.1}, \frac{e}{0.3} \}$
+$C = \{ \frac{0.4}{a}, \frac{0.6}{b}, \frac{0.9}{c}, \frac{0.1}{d} \}$
+$D = \{ \frac{0.5}{b}, \frac{1}{c}, \frac{0.1}{d}, \frac{0.3}{e} \}$
 
 ---
 
@@ -64,8 +64,8 @@ $D = \{ \frac{b}{0.5}, \frac{c}{1}, \frac{d}{0.1}, \frac{e}{0.3} \}$
 |                           |                                         |
 
 Znajdź różnicę zbiorów rozmytych:
-$E = \{ \frac{b}{0.5}, \frac{c}{0.4}, \frac{d}{0.3}, \frac{e}{0.2} \}$
-$F = \{ \frac{a}{1}, \frac{b}{0.5}, \frac{c}{0.4}, \frac{d}{0.3}, \frac{e}{0.2} \}$
+$E = \{ \frac{0.5}{b}, \frac{0.4}{c}, \frac{0.3}{d}, \frac{0.2}{e} \}$
+$F = \{ \frac{1}{a}, \frac{0.5}{b}, \frac{0.4}{c}, \frac{0.3}{d}, \frac{0.2}{e} \}$
 
 ---
 
@@ -117,10 +117,10 @@ Wyznacz $T \cup E$. Oblicz $supp(T \cup E)$, $ker(T \cup E)$ i t-przekrój dla $
 Dany jest zbiór samochodów $S = \{ x_1, x_2, x_3, x_4, x_5 \}$
 
 Wsród tych samochodów wyszczególniamy zbiór szybkich samochodów:
-$A = \{ \frac{x_1}{0.9}, \frac{x_2}{1}, \frac{x_3}{0.5}, \frac{x_4}{0.6} \}$
+$A = \{ \frac{0.9}{x_1}, \frac{1}{x_2}, \frac{0.5}{x_3}, \frac{0.6}{x_4} \}$
 
 oraz zbiór samochodów dużo palących:
-$B = \{ \frac{x_1}{0.7}, \frac{x_2}{0.2}, \frac{x_3}{0.4}, \frac{x_4}{0.5}, \frac{x_5}{0.1} \}$
+$B = \{ \frac{0.7}{x_1}, \frac{0.2}{x_2}, \frac{0.4}{x_3}, \frac{0.5}{x_4}, \frac{0.1}{x_5} \}$
 
 ---
 
