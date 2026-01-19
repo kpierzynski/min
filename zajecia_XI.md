@@ -157,3 +157,16 @@ Przdstaw stan sterownika dla:
 - prędkość = 120L/min
 
 </small></small>
+
+---
+
+## Zadanie lab
+
+<small><small>
+
+Uruchomienie dodatkowego serwera z aplikacją trwa około 1 godziny (A), a dotarcie devopsa do serwerowni zajmuje przeciętnie 1.5 godzin (B). Szef chce, aby o 10:30 nowa instancja aplikacji była już uruchomiona. O której devops powinien wyjść z domu?
+
+$A = \{ \frac{0.2}{0.5h} + \frac{1}{1h} + \frac{0.5}{1.5h} + \frac{0.1}{2h} \}$
+$B = \{ \frac{0.4}{1h} + \frac{1}{1.5h} + \frac{0.6}{2h} \}$
+
+</small></small>
