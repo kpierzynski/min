@@ -151,7 +151,7 @@ Dane są reguły:
   </tr>
 </table>
 
-Przdstaw stan sterownika dla:
+Przdstaw graficznie stan sterownika dla:
 
 - wypełnienie = 55L
 - prędkość = 120L/min

@@ -209,7 +209,11 @@ $A$ - zbiór rozmyty
 
 $[[Q\ Bx\ jest\ A]] = Q(\sigma_f(A | B )) = Q(\frac{\sigma_f(A \cap_t B)}{\sigma_f(B)})$
 
+<small>
+
 Q: "Około 25%" B: "dojrzałych" x: "gruszek" A: "jest mała"
+
+</small>
 
 ---
 

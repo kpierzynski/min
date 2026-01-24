@@ -66,7 +66,7 @@ $$
 B = \{0.6/x_1, 0.9/x_2, 0.1/x_3, 0.9/x_4\}
 $$
 
-1. Oblicz miarę overlap
+1. Oblicz miarę Jaccarda
 
 ---
 
