@@ -43,7 +43,7 @@ Zmienne lingistyczne: $temperatura$, $wilgotnoc$, $predkosc\ wentylatora$
 
 |               |                       |                         |                               |
 | ------------- | --------------------- | ----------------------- | ----------------------------- |
-| $wilgotnosc$  | niska $Tr(0,0,25,50)$ | srednia $T(25,50,75)$   | wysoka $Tr(59, 75, 100, 100)$ |
+| $wilgotnosc$  | niska $Tr(0,0,25,50)$ | srednia $T(25,50,75)$   | wysoka $Tr(50, 75, 100, 100)$ |
 | $temperatura$ | zimno $Tr(0,0,15,25)$ | letnio $T(15,25,35)$    | cieplo $Tr(25, 35, 50, 50)$   |
 | $predkosc$    | wolno $Tr(0,0,20,50)$ | spokojnie $T(20,50,80)$ | szybko $Tr(50,80,100,100)$    |
 
